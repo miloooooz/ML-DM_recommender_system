@@ -54,41 +54,41 @@ Instruction
 -----------------------------------------------------------------------------
 To test the accuracy and RMSE for model-based algorithm:
 
-	For 100k:
+For 100k:
 	
 	`python3.6 recommender.py 100k model test`
 	
-	For 1m:
+For 1m:
 	
 	`python3.6 recommender.py 1m model test`
 	
 To test the accuracy and RMSE for memory-based algorithm:
 
-	For 100k:
+For 100k:
 	
 	`python3.6 recommender.py 100k memory test`
 	
-	For 1m:
+For 1m:
 	
 	`python3.6 recommender.py 1m memory test`
 	
 To make recommendation for specific user(user_name) using memory based algorithm:
 
-	For 100k:
+For 100k:
 	
 	`python3.6 recommender.py 100k memory user_name`
 	
-	For 1m:
+For 1m:
 	
 	`python3.6 recommender.py 1m memory user_name`
 	
 To make recommendation for specific user(user_name) using model based algorithm:
 
-	For 100k:
+For 100k:
 	
 	`python3.6 recommender.py 100k model user_name`
 	
-	For 1m:
+For 1m:
 	
 	`python3.6 recommender.py 1m model user_name`
 	
