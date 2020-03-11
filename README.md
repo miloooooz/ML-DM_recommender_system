@@ -76,11 +76,11 @@ Instruction
 >
 > + For 100k:
 >	
-> cmd run `python3.6 recommender.py 100k memory user_name`
+> cmd run `python3.6 recommender.py 100k recommand user_name`
 > 	
 > + For 1m:
 >	
-> cmd run `python3.6 recommender.py 1m memory user_name`
+> cmd run `python3.6 recommender.py 1m recommand user_name`
 	
 
 Output
