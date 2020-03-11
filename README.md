@@ -81,5 +81,5 @@ To test the accuracy and RMSE, there will be instructions for
 Dataset
 -----------------------------------------------------------------------------
 The large dataset we used contains 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users who joined MovieLens in 2000.
-The small dataset from [MovieLens](http://movielens.org)contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.
+The small dataset from [MovieLens](http://movielens.org) contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.
 
