@@ -66,11 +66,11 @@ Instruction
 >
 > + For 100k:
 >	
-> cmd run `python3.6 recommender.py 100k memory test`
+> cmd run `python3.6 recommender.py 100k run memory`
 > 	
 > + For 1m:
 >	
-> cmd run `python3.6 recommender.py 1m memory test`
+> cmd run `python3.6 recommender.py 1m run memory`
 >	
 > ### To make recommendation for specific user(user_name) using memory based algorithm:
 >
@@ -81,16 +81,7 @@ Instruction
 > + For 1m:
 >	
 > cmd run `python3.6 recommender.py 1m memory user_name`
->	
-> ### To make recommendation for specific user(user_name) using model based algorithm:
->
-> + For 100k:
->	
-> cmd run `python3.6 recommender.py 100k model user_name`
->	
-> + For 1m:
->	
-> cmd run `python3.6 recommender.py 1m model user_name`	
+	
 
 Output
 -----------------------------------------------------------------------------
